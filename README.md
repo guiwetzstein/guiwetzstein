@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @guiwetzstein
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning more about Typescript and Apache Kafka.
-- 💞️ I’m looking to collaborate on big projects.
+- 🌲 I've been in the JavaScript/Node.js world for almost 10 years.
+- 🌳 I’m currently improving my knowledge on Typescript and Apache Kafka.
+- 🌱 I’m learning Go as my new language.
+- 🚀 I’m looking to collaborate on big projects.
 - 📫 You can reach me at https://www.linkedin.com/in/guiwetzstein/
 
 <!---
